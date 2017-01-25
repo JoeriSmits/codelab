@@ -13,7 +13,7 @@ Make sure you have [bower.io](https://bower.io) installed.
 ```<google-codelab-step>``` is nested within ```<google-codelab>```. Every ```<google-codelab-step>``` will be seen as a step in the codelab.
 ```<google-codelab-step>``` must have at least the following attributes:
   * ```label``` The title of the step
-  * ```step``` Number ordening of the steps
+  * ```step``` Number ordening of the step
   * ```duration``` The duration of the step in minutes
 
-Specify all HTML you want to see within the related ```<google-codelab-step>```
+Type all HTML you want to see within the related ```<google-codelab-step>```
