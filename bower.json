@@ -1,0 +1,26 @@
+{
+  "name": "emptyCodelab",
+  "homepage": "https://github.com/JoeriSmits/codelab",
+  "authors": [
+    "Joeri Smits <hello@joerismits.nl>"
+  ],
+  "description": "Setup code for an empty Google codelab",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "codelab"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.7.1",
+    "codelab-components": "googlecodelabs/codelab-components#^2.0.2"
+  }
+}
